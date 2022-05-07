@@ -1,0 +1,7 @@
+C:\Users\Moham\source\repos\lib\bin\lib.dll.config
+C:\Users\Moham\source\repos\lib\bin\lib.dll
+C:\Users\Moham\source\repos\lib\bin\lib.pdb
+C:\Users\Moham\source\repos\lib\obj\Debug\lib.csproj.AssemblyReference.cache
+C:\Users\Moham\source\repos\lib\obj\Debug\lib.csproj.CoreCompileInputs.cache
+C:\Users\Moham\source\repos\lib\obj\Debug\lib.dll
+C:\Users\Moham\source\repos\lib\obj\Debug\lib.pdb

@@ -1,0 +1,7 @@
+C:\Users\Moham\source\repos\Sign_up_page\bin\Sign_up_page.dll.config
+C:\Users\Moham\source\repos\Sign_up_page\bin\Sign_up_page.dll
+C:\Users\Moham\source\repos\Sign_up_page\bin\Sign_up_page.pdb
+C:\Users\Moham\source\repos\Sign_up_page\obj\Debug\Sign_up_page.csproj.AssemblyReference.cache
+C:\Users\Moham\source\repos\Sign_up_page\obj\Debug\Sign_up_page.csproj.CoreCompileInputs.cache
+C:\Users\Moham\source\repos\Sign_up_page\obj\Debug\Sign_up_page.dll
+C:\Users\Moham\source\repos\Sign_up_page\obj\Debug\Sign_up_page.pdb
